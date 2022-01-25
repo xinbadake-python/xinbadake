@@ -1,2 +1,3 @@
 # xinbadake
-my-code
+## c
+### putchar
